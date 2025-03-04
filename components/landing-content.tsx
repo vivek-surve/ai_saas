@@ -22,10 +22,10 @@ const testimonials = [
     description: "This is the best application I've ever used!",
   },
   {
-    name: "John Doe",
-    avatar: "A",
+    name: "Vivek surve",
+    avatar: "D",
     title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    description: "",
   },
 ];
 
